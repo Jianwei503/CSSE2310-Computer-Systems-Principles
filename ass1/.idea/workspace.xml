@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ass1" targetName="ass1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e34b3b-a869-4467-b2e6-61ad497773e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZbNFuQeXzjt8iRljY6E3H9iqcY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/csse2310/2310-assignment-solutions-2019-master/assignments/ass1/ans/edit.c" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CLionProjects\csse2310\ass1\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ass1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="1 0 board4" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ass1" TARGET_NAME="ass1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ass1" RUN_TARGET_NAME="ass1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e34b3b-a869-4467-b2e6-61ad497773e3" name="Default Changelist" comment="" />
+      <created>1585103733873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585103733873</updated>
+      <workItem from="1585103735884" duration="233000" />
+      <workItem from="1585104024860" duration="59000" />
+      <workItem from="1585112328367" duration="2223000" />
+      <workItem from="1585115415416" duration="1217000" />
+      <workItem from="1585129111314" duration="651000" />
+      <workItem from="1585131981838" duration="9081000" />
+      <workItem from="1585185645690" duration="2103000" />
+      <workItem from="1585195873328" duration="19509000" />
+      <workItem from="1585272485813" duration="11364000" />
+      <workItem from="1585308248303" duration="12896000" />
+      <workItem from="1585356855477" duration="4000" />
+      <workItem from="1585357019472" duration="46254000" />
+      <workItem from="1585442729353" duration="28587000" />
+      <workItem from="1585475284880" duration="10116000" />
+      <workItem from="1585487513377" duration="584000" />
+      <workItem from="1585488538221" duration="11139000" />
+      <workItem from="1585502464697" duration="1291000" />
+      <workItem from="1585532219567" duration="14121000" />
+      <workItem from="1585547461558" duration="36000" />
+      <workItem from="1585547555436" duration="16000" />
+      <workItem from="1585547595139" duration="833000" />
+      <workItem from="1585553498740" duration="1703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

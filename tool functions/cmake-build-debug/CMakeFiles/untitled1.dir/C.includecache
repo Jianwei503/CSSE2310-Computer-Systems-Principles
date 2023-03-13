@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/csse2310/untitled1/calc.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+pthread.h
+-
+stdbool.h
+-
+

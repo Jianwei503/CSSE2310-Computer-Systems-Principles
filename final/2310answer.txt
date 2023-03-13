@@ -1,0 +1,134 @@
+2310 Exam answers for Questions 1--6
+
+#Please note that some parts of Q4 have corrections.
+#Details given under the relevant parts in this file.
+
+1A)gcc start.c -lm
+
+1B)cat bill | tail -n 3
+
+1C)grep "mud" bill | grep -v "mudcake"
+
+1D)cut -d ' ' -f 4 bill
+
+1E)grep "cake" bill | sort -r
+
+1F)svn remove pots.c svn commit
+
+1G)gcc pond.c 2 > logs.err
+
+1H)gcc dims.c space.c -o box
+
+1I)ls -a1d ?*.cc
+
+1J)svn add dims.c space.c svn commit dims.c space.c
+
+---------------------
+
+2A)bool foo[5];
+
+2B)char *foo[10];
+
+2C)short (* foo)(char);
+
+2D)int *foo;
+
+2E)const char *foo;
+
+2F)double foo;
+
+---------------------
+
+3A)32 KiB
+
+3B - box1)73733
+
+3B - box2)SEGFAULT
+
+3C - address1)No
+
+3C - address2)Yes
+
+3C - address3)Yes
+
+3C - address4)No
+
+---------------------
+
+4A)data has a invalid permission for owner's read, log2 and logx are hardlinked but have different user， number of subdirectories of .. could not be 1
+
+4B)ln -s data backup
+
+4C)chmod g-x apt
+# 4C says "(other than andy)" it should say "(other than librarian)"
+
+# 4D refers to p1, p2 and p3.  This should be f1, f2 and f3 respectively.
+4D-1)mustrum havelock
+
+4D-2)librarian andy havelock
+
+4D-3)mustrum havelock
+
+---------------------
+
+5A - netmask for network A)255.255.255.240
+
+5A - broadcast for network A)15.0.134.15
+
+5A - CIDR for network A)15.0.134.0/28
+
+5A - netmask for network B)255.255.255.192
+
+5A - broadcast for network B)15.0.124.63
+
+5A - CIDR for network B)15.0.124.0/26
+
+5A - netmask for network C)255.255.255.128
+
+5A - broadcast for network C)15.0.119.127
+
+5A - CIDR for network C)15.0.119.0/25
+
+
+5B - netmask for whole network)255.255.0.0
+
+5B - broadcast for whole network)15.0.255.255
+
+5B - CIDR for whole network)15.0.0.0/16
+
+
+5C - Unused addresses in network A)10
+
+5C - Unused addresses in network C)122
+
+5C - Unused addresses in network E)0
+
+
+5D)8
+
+5E - putty)Application
+
+5E - ethernet)Link
+
+5E - MAC)Link
+
+5E - IPv6)Network
+
+5E - UDP)Transport
+
+5E - TCP)Transport
+
+---------------------
+
+6A)8248 KiB
+
+6B)25190456 KiB
+
+6C)8606736440 KiB
+
+6D)6
+
+---------------------
+
+Any assumptions you relied upon or questions you would have asked in an in person exam)
+
